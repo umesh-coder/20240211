@@ -8,4 +8,4 @@ JavaScript Program to Perform **CRUD Operation** on Database Where
 
 **Database = Folder ,
 Table = Text File {Convert into Json} ,
-Record = Text Line //json**
+Record = Text Line**
