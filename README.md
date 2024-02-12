@@ -6,6 +6,6 @@ Problem Statement :
 
 JavaScript Program to Perform **CRUD Operation** on Database Where
 
-_Database = Folder_
-_Table = Text File {Convert into Json}_
-_Record = Text Line //json_
+Database = Folder
+Table = Text File {Convert into Json}
+Record = Text Line //json
